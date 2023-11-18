@@ -1,0 +1,9 @@
+Name: Rabbit Stew
+Ingredients: rabbit, carrots, potatoes, onions, garlic
+Recipe: 
+1. Season the rabbit with salt and pepper.
+2. In a large pot, sauté onions and garlic until translucent.
+3. Add the rabbit and brown on all sides.
+4. Add carrots, potatoes, and enough water to cover.
+5. Simmer for 1 hour or until rabbit is tender.
+6. Serve hot.

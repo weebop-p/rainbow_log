@@ -1,0 +1,10 @@
+Name: Vegetable Soup
+Ingredients: carrots, potatoes, onions, garlic, celery, tomatoes, green beans
+Recipe: 
+1. In a large pot, heat some oil over medium heat.
+2. Add onions, garlic, and celery. Sauté until translucent.
+3. Add carrots, potatoes, tomatoes, and green beans.
+4. Pour in vegetable broth until vegetables are covered.
+5. Bring to a boil, then reduce heat and let it simmer for 30 minutes.
+6. Season with salt, pepper, and any other desired spices.
+7. Serve hot with some crusty bread.
